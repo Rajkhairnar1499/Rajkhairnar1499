@@ -21,8 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajkhairnar1499&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajkhairnar1499&icon=5&color=6)](https://visitcount.itsvg.in)
