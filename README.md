@@ -1,6 +1,6 @@
 ###
 
-![Header](./IntroFinal.png)
+![Header](./Header.png)
 <hr />
 
 <div align="center">
